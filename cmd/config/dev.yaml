@@ -1,0 +1,6 @@
+server:
+  port: 3000
+  debug: true
+  host: localhost
+database:
+  driver: "sqlite"
